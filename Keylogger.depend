@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1492237676 source:d:\keylogger\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1492070091 d:\keylogger\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1492070761 d:\keylogger\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1492070425 d:\keylogger\keylogger\base64.h
+	<vector>
+	<string>
+
+1492070891 d:\keylogger\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1492075079 d:\keylogger\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1492234309 d:\keylogger\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1492356802 d:\keylogger\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1492237676 source:d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1492070091 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1492070761 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\keyconstants.h
+	<map>
+	<string>
+
+1492070425 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\base64.h
+	<vector>
+	<string>
+
+1492070891 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1492075079 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\timer.h
+	<thread>
+	<chrono>
+
+1492234309 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1492356802 d:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
+1492241276 source:f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1493827978 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1492074361 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\keyconstants.h
+	<map>
+	<string>
+
+1492074025 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\base64.h
+	<vector>
+	<string>
+
+1492074491 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1492078679 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\timer.h
+	<thread>
+	<chrono>
+
+1492237909 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1492360402 f:\aaaaaaaaaaaaaaoijafoaijfoasjfoasifj\pagojapsgjapsgoj\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
